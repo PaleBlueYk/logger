@@ -1,3 +1,8 @@
+# 安装
+```zsh
+go get github.com/PaleBlueYk/logger
+```
+
 # logger
 convenient log package
 
